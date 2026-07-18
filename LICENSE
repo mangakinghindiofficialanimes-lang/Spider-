@@ -1,0 +1,604 @@
+SPIDER TECHNOLOGIES PROPRIETARY SOFTWARE LICENSE
+
+Version 1.0 — 2026
+
+Copyright © 2026 Spider Technologies. All Rights Reserved.
+
+This Spider Technologies Proprietary Software License (“License”) governs the use, access, copying, modification, development, distribution, publication, hosting, execution, and other handling of the software and related materials collectively known as the Spider Language, Spider Programming Language, Spider Compiler, Spider Runtime, Spider Standard Library, Spider Package System, Spider Language Tools, and any associated software, documentation, specifications, source code, binaries, libraries, modules, packages, extensions, examples, test suites, configuration files, repositories, and related materials (collectively, the “Software”).
+
+The Software is developed, owned, controlled, and/or licensed by Spider Technologies and/or its authorized owner, contributors, licensors, or rights holders.
+
+By accessing, downloading, viewing, cloning, copying, installing, compiling, executing, modifying, studying, contributing to, or otherwise using the Software, you acknowledge that you have read, understood, and agree to be legally bound by this License, to the maximum extent permitted by applicable law.
+
+If you do not agree to the terms of this License, you must not access, download, clone, copy, install, compile, execute, modify, distribute, publish, or otherwise use the Software.
+
+---
+
+1. Definitions
+
+For purposes of this License:
+
+1.1 “Spider Technologies”
+
+“Spider Technologies” means the organization, company, project owner, copyright holder, developer, or other legal entity or person controlling the Spider project and its associated intellectual property.
+
+1.2 “Software”
+
+“Software” includes, without limitation:
+
+- The Spider programming language;
+- Spider language specifications;
+- Spider syntax and grammar;
+- Spider source code;
+- Spider compiler source code;
+- Spider compiler binaries;
+- Spider runtime systems;
+- Spider virtual machines;
+- Spider bytecode systems;
+- Spider standard libraries;
+- Spider development tools;
+- Spider package managers;
+- Spider package formats;
+- Spider language bridges;
+- Spider universal foreign-function interfaces;
+- Spider APIs;
+- Spider command-line tools;
+- Spider build systems;
+- Spider debugging tools;
+- Spider formatters and linters;
+- Spider language servers;
+- Spider documentation;
+- Spider examples;
+- Spider tests;
+- Spider templates;
+- Spider repositories;
+- Spider-related databases and registries;
+- Spider branding and official project materials;
+- Any future component identified by Spider Technologies as part of the Spider ecosystem.
+
+1.3 “Official Spider Software”
+
+“Official Spider Software” means any version, release, package, tool, language feature, compiler, runtime, operating-system component, or other software officially released, approved, authorized, or designated by Spider Technologies.
+
+1.4 “User”
+
+“User” means any individual, organization, company, institution, developer, government entity, or other party accessing or using the Software.
+
+1.5 “Authorized Use”
+
+“Authorized Use” means use expressly permitted by Spider Technologies under this License or under a separate written license agreement.
+
+1.6 “Derivative Work”
+
+“Derivative Work” means any software, source code, compiler, runtime, language, language implementation, fork, modification, adaptation, translation, extension, port, package, tool, system, or other work based on, derived from, incorporating, or substantially inspired by the Software.
+
+---
+
+2. Ownership and Intellectual Property
+
+The Software is proprietary intellectual property.
+
+Except for the limited rights expressly granted by this License, Spider Technologies retains all rights, title, and interest in and to the Software, including all intellectual-property rights.
+
+These rights may include, where applicable:
+
+- Copyright;
+- Trade secrets;
+- Trademarks;
+- Service marks;
+- Patent rights;
+- Design rights;
+- Database rights;
+- Know-how;
+- Confidential-information rights;
+- Rights in source code;
+- Rights in software architecture;
+- Rights in language design;
+- Rights in compiler architecture;
+- Rights in runtime architecture;
+- Rights in package formats;
+- Rights in documentation;
+- Rights in proprietary technologies.
+
+No ownership rights are transferred to you by this License.
+
+Access to the source code does not mean that the source code has been released under an open-source license.
+
+Viewing source code does not grant permission to copy it.
+
+Downloading the Software does not transfer ownership.
+
+Forking a repository does not grant a license beyond the rights expressly granted by this License.
+
+---
+
+3. Limited License Grant
+
+Subject to full compliance with this License, Spider Technologies grants you a limited, revocable, non-exclusive, non-transferable, non-sublicensable, and restricted license to access and use the Software solely for purposes expressly authorized by Spider Technologies.
+
+Unless separately authorized in writing, the permitted use is limited to:
+
+1. Viewing the Software;
+2. Studying the Software for personal educational purposes;
+3. Running authorized copies of the Software;
+4. Developing private projects using the Software where such use is permitted by Spider Technologies;
+5. Using official documentation for authorized development;
+6. Using official tools according to their documented purpose.
+
+This license does not grant a general right to:
+
+- Redistribute the Software;
+- Publish the Software;
+- Sell the Software;
+- Sublicense the Software;
+- Commercially exploit the Software;
+- Create competing programming languages;
+- Create competing compilers;
+- Create competing runtimes;
+- Create unauthorized forks;
+- Create unauthorized derivative works;
+- Remove proprietary notices;
+- Circumvent technical restrictions.
+
+Any use not expressly permitted is prohibited.
+
+---
+
+4. Restrictions on Copying
+
+You may not copy, reproduce, duplicate, mirror, archive, or otherwise reproduce the Software or substantial portions of the Software without written permission from Spider Technologies.
+
+This restriction applies to:
+
+- Source code;
+- Binary files;
+- Documentation;
+- Language specifications;
+- Compiler components;
+- Runtime components;
+- Package-management components;
+- Registry software;
+- Official examples;
+- Test suites;
+- Configuration systems;
+- Proprietary algorithms;
+- Proprietary architecture.
+
+Limited temporary copies created automatically by a computer system during authorized execution may be permitted where technically necessary for authorized use.
+
+Such temporary copies do not grant ownership or additional rights.
+
+---
+
+5. Restrictions on Modification
+
+You may not modify, adapt, translate, refactor, extend, reverse engineer, decompile, disassemble, patch, or otherwise alter the Software without explicit written permission from Spider Technologies.
+
+This includes, without limitation:
+
+- Changing Spider syntax;
+- Adding unauthorized language keywords;
+- Changing the compiler;
+- Changing the runtime;
+- Changing the type system;
+- Changing memory-management systems;
+- Changing package systems;
+- Changing security systems;
+- Creating unauthorized Spider language versions;
+- Creating unofficial Spider language distributions.
+
+Any authorized modification must comply with all conditions imposed by Spider Technologies.
+
+Spider Technologies may require authorized modifications to remain private, be submitted for review, or be assigned or licensed to Spider Technologies.
+
+---
+
+6. Restrictions on Distribution
+
+You may not distribute, publish, upload, mirror, sell, rent, lease, transfer, sublicense, or otherwise make the Software available to any third party without written authorization.
+
+This restriction includes distribution through:
+
+- GitHub;
+- GitLab;
+- Bitbucket;
+- Code hosting platforms;
+- Package registries;
+- Websites;
+- File-sharing services;
+- Cloud storage;
+- Torrent networks;
+- Application stores;
+- Container registries;
+- Online forums;
+- Social-media platforms;
+- Private groups;
+- Public repositories.
+
+A private repository does not automatically grant permission to distribute the Software to every person with repository access.
+
+---
+
+7. Forks and Repository Copies
+
+Unless explicitly authorized, you may not create or maintain a fork, clone, mirror, duplicate, or substantially similar repository containing the Software.
+
+A GitHub fork is not a transfer of ownership.
+
+Repository access may be revoked at any time if your use violates this License.
+
+Spider Technologies may request removal of unauthorized copies, forks, mirrors, archives, or derivative repositories.
+
+---
+
+8. Commercial Use
+
+Commercial use of the Software is prohibited unless separately authorized in writing.
+
+Commercial use includes, without limitation:
+
+- Selling applications created with the Software where such use is not authorized;
+- Providing paid services based on the Software;
+- Hosting paid services using the Software;
+- Selling Spider-based packages;
+- Selling Spider-based tools;
+- Offering commercial support;
+- Using the Software in a commercial product;
+- Using the Software inside a company or organization for commercial operations;
+- Monetizing modified versions;
+- Creating a competing commercial language or platform.
+
+Spider Technologies may provide separate commercial licenses under separate terms.
+
+---
+
+9. Creation of Competing Technologies
+
+You may not use the Software to create, develop, train, design, or assist in creating a competing programming language, compiler, runtime, package ecosystem, or substantially similar technology without written permission.
+
+This restriction applies to technologies that intentionally reproduce or substantially copy:
+
+- Spider language syntax;
+- Spider language architecture;
+- Spider compiler architecture;
+- Spider runtime architecture;
+- Spider package architecture;
+- Spider proprietary formats;
+- Spider proprietary protocols;
+- Spider proprietary designs.
+
+This section does not prohibit independent development of unrelated software that does not unlawfully copy protected Spider Technologies intellectual property.
+
+---
+
+10. Artificial Intelligence and Machine Learning Restrictions
+
+Unless expressly authorized in writing, you may not use the Software, source code, documentation, specifications, or proprietary materials to:
+
+- Train an artificial-intelligence model;
+- Fine-tune an artificial-intelligence model;
+- Create a machine-learning dataset;
+- Create a code-generation dataset;
+- Create a language-model training dataset;
+- Build an automated system designed to reproduce the Software;
+- Generate a competing language or compiler using automated analysis;
+- Use automated systems to extract substantial portions of the Software.
+
+Spider Technologies may separately authorize specific artificial-intelligence systems, including Spider Intelligence systems, to analyze, modify, test, improve, or evolve the Software.
+
+Any such authorization may be limited to specific systems, environments, users, versions, or purposes.
+
+---
+
+11. Spider Intelligence and Owner Edition
+
+Spider Intelligence Owner Edition may be granted special authority by Spider Technologies to analyze, test, modify, improve, generate, update, or evolve parts of the Spider ecosystem.
+
+Such authority is controlled by Spider Technologies.
+
+Spider Intelligence Owner Edition may, where specifically authorized:
+
+- Modify Spider language specifications;
+- Modify Spider compiler components;
+- Modify Spider runtime components;
+- Create new language features;
+- Create new Spider versions;
+- Update Spider Intelligence systems;
+- Create and test new AI versions;
+- Create isolated test environments;
+- Generate Spider OS versions;
+- Update Spider OS components;
+- Test language compatibility;
+- Perform automated regression testing;
+- Create backups;
+- Perform controlled rollbacks.
+
+No other Spider Intelligence edition automatically receives these rights.
+
+Standard, Developer, Enterprise, or other editions may have different permissions.
+
+An AI system must not be assumed to have authority merely because it can technically access a file or repository.
+
+Authorization must be explicitly granted by the relevant Spider Technologies control system.
+
+---
+
+12. Self-Improvement and Self-Replication Systems
+
+Spider Technologies may develop systems capable of creating test versions, isolated copies, replicas, or successor versions of Spider Intelligence.
+
+Any such system must operate only within authorized environments.
+
+A self-improving system must not be interpreted as having independent ownership of the Software.
+
+All versions, copies, test environments, and successor systems remain subject to the intellectual-property rights and control of Spider Technologies.
+
+Spider Technologies may require:
+
+- Version control;
+- Authentication;
+- Authorization;
+- Logging;
+- Testing;
+- Backup;
+- Rollback;
+- Human approval;
+- Isolation;
+- Access restrictions.
+
+---
+
+13. Language Evolution
+
+Spider Technologies may change the Spider language at any time.
+
+Changes may include:
+
+- New syntax;
+- New keywords;
+- New types;
+- New operators;
+- New memory systems;
+- New concurrency systems;
+- New compiler systems;
+- New package systems;
+- New runtime systems;
+- New security systems;
+- New operating-system integrations.
+
+A new version of Spider may be incompatible with earlier versions.
+
+Spider Technologies may maintain compatibility layers, migration tools, or legacy versions, but is not obligated to do so.
+
+No user has a permanent right to any particular language feature, syntax, version, package, or implementation.
+
+---
+
+14. Packages and Third-Party Components
+
+Spider packages may be subject to separate licenses.
+
+A package included in the Spider ecosystem may be:
+
+- Proprietary;
+- Open source;
+- Third-party licensed;
+- Commercially licensed;
+- Restricted by another license.
+
+Users are responsible for reviewing the applicable license of each third-party component.
+
+This License does not override a third-party license where that license legally applies to its own material.
+
+Spider Technologies does not automatically claim ownership of independent third-party software merely because it is compatible with Spider.
+
+---
+
+15. Bridges to Other Programming Languages
+
+Spider may provide bridges, interfaces, adapters, or compatibility layers for other programming languages.
+
+Such bridges may allow Spider programs to interact with software written in languages including, but not limited to:
+
+- Python;
+- C;
+- C++;
+- Rust;
+- Go;
+- Java;
+- Kotlin;
+- JavaScript;
+- TypeScript;
+- Swift;
+- Other languages.
+
+The existence of a Spider bridge does not grant rights to third-party libraries.
+
+Users must comply with the licenses of third-party software accessed through a bridge.
+
+---
+
+16. Security and Unauthorized Access
+
+You may not use the Software to:
+
+- Circumvent authentication;
+- Bypass access controls;
+- Defeat licensing systems;
+- Obtain unauthorized access;
+- Disable security protections;
+- Modify authorization systems without permission;
+- Access systems without authorization.
+
+Nothing in this License grants permission to access systems owned by another party.
+
+Authorized security research may be subject to separate written policies.
+
+---
+
+17. Confidentiality
+
+Where Spider Technologies identifies Software, source code, documentation, specifications, credentials, repositories, systems, or other materials as confidential, you must keep such materials confidential.
+
+You may not disclose confidential materials to third parties without authorization.
+
+You must take reasonable measures to prevent unauthorized access, copying, disclosure, or distribution.
+
+Confidentiality obligations may continue after termination of this License where permitted by applicable law.
+
+---
+
+18. Contributions
+
+Unless a separate contribution agreement applies, submitting code, documentation, suggestions, designs, bug reports, language features, or other material to Spider Technologies does not automatically transfer ownership.
+
+Spider Technologies may require contributors to agree to a separate Contributor License Agreement.
+
+By submitting a contribution, you represent that:
+
+1. You have the right to submit it;
+2. The contribution does not knowingly violate third-party rights;
+3. You have disclosed relevant third-party restrictions;
+4. You are not submitting confidential material belonging to another party.
+
+Spider Technologies may accept, reject, modify, license, or refuse any contribution.
+
+---
+
+19. Trademarks and Branding
+
+“Spider Technologies,” “Spider,” “Spider Language,” “Spider Intelligence,” “Spider OS,” and associated logos, names, symbols, and branding may be trademarks or protected identifiers of Spider Technologies or their respective owners.
+
+This License does not grant permission to use such marks in a way that implies:
+
+- Sponsorship;
+- Endorsement;
+- Ownership;
+- Official affiliation;
+- Partnership;
+- Certification.
+
+You may not create branding confusingly similar to official Spider Technologies branding.
+
+---
+
+20. Versioning
+
+Spider Technologies may release versions using any versioning system.
+
+Examples include:
+
+- Spider 0.1;
+- Spider 1.0;
+- Spider 2.0;
+- Spider Ω;
+- Development versions;
+- Beta versions;
+- Experimental versions.
+
+Each version may have additional terms.
+
+If a later version includes a new license, the new license may apply only where expressly stated.
+
+---
+
+21. Automatic Termination
+
+This License automatically terminates if you materially violate its terms.
+
+Upon termination, you must immediately stop all unauthorized use.
+
+You must, where legally required:
+
+- Stop using the Software;
+- Delete unauthorized copies;
+- Stop distribution;
+- Stop publication;
+- Stop commercial use;
+- Stop unauthorized modification.
+
+Termination does not necessarily prevent Spider Technologies from seeking legal remedies for prior violations.
+
+---
+
+22. Revocation
+
+Spider Technologies may revoke authorization for specific users, organizations, repositories, systems, services, or environments where permitted by applicable law.
+
+Revocation may occur due to:
+
+- License violations;
+- Security risks;
+- Unauthorized distribution;
+- Abuse;
+- Fraud;
+- Threats to the Software;
+- Misuse of Spider Technologies systems.
+
+---
+
+23. Disclaimer of Warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE.”
+
+SPIDER TECHNOLOGIES DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION:
+
+- MERCHANTABILITY;
+- FITNESS FOR A PARTICULAR PURPOSE;
+- NON-INFRINGEMENT;
+- ACCURACY;
+- RELIABILITY;
+- AVAILABILITY;
+- SECURITY;
+- PERFORMANCE;
+- ERROR-FREE OPERATION.
+
+The Software may contain bugs, defects, vulnerabilities, incomplete features, compatibility problems, or unexpected behavior.
+
+Spider Technologies does not guarantee that the Software will:
+
+- Operate continuously;
+- Be error-free;
+- Be secure;
+- Remain available;
+- Support every hardware platform;
+- Support every operating system;
+- Maintain compatibility with previous versions;
+- Remain unchanged.
+
+---
+
+24. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, SPIDER TECHNOLOGIES SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES ARISING FROM OR RELATED TO THE SOFTWARE OR THIS LICENSE.
+
+This includes, without limitation:
+
+- Loss of data;
+- Loss of profits;
+- Loss of business;
+- Loss of access;
+- System failures;
+- Security incidents;
+- Software defects;
+- Compatibility failures;
+- Service interruption;
+- Unauthorized access;
+- Data corruption.
+
+Where liability cannot legally be excluded, liability shall be limited to the maximum extent permitted by applicable law.
+
+---
+
+25. No Guarantee of Future Development
+
+Spider Technologies is not obligated to:
+
+- Continue developing Spider;
+- Release future versions;
+- Maintain any feature;
+- Fix every bug;
+- Provide technical support;
+- Maintain compatibility;
+- Continue a package;
+- Continue a
