@@ -1,0 +1,10 @@
+print("Hello, Spider")
+
+let name = "Nitin"
+
+print(name)
+
+let a = 10
+let b = 20
+
+print(a + b)
