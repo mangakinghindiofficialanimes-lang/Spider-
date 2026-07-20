@@ -1,1 +1,13 @@
+// Spider Compiler v0.1
+// This compiler is written in Spider.
+// It is executed by the temporary bootstrap.
 
+print("Spider Compiler v0.1")
+print("Compiler source is running in Spider")
+
+let version = "0.1.0"
+
+print("Version:")
+print(version)
+
+print("Spider is becoming self-hosting")
